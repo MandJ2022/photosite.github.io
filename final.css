@@ -169,7 +169,7 @@ h2 {
     width: 550px;
     height: 800px;
     transition: 1s;
-    margin: 1px;
+    margin: 5px;
     
 }
 .portofolio-cal img {
@@ -205,7 +205,7 @@ h2 {
     filter: brightness(40%) ;
     border-radius: 4px;
     opacity: 100%;
-    margin: 1px;
+    margin: 5px;
 
     
 }
