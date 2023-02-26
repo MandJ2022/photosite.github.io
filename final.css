@@ -226,7 +226,7 @@ h4 {
     display: grid;
     align-content: center;
     justify-content: space-evenly;
-    margin-top: -149px;
+    margin-top: 50px;
     padding-top: 100px;
     background-color: #01fbde;
 
@@ -414,7 +414,7 @@ h4 {
 }
 
 .bnw-col img {
-    width: 550px;
+    width: 500px;
     height: 800px;
     margin: 20px;
     border-radius: 2px;
