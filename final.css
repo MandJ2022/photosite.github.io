@@ -204,7 +204,7 @@ h2 {
     cursor: pointer;
     filter: brightness(40%) ;
     opacity: 100%;
-    bottom: 5px;
+   
    
 
     
@@ -540,7 +540,7 @@ h4 {
     font-weight: 800;
     
     opacity: 90%;
-    border-radius: 2px;
+    bottom: 5px;
 }
 .overlay p {
     opacity: 0;
