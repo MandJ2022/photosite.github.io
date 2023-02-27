@@ -171,6 +171,8 @@ h2 {
     width: 550px;
     height: 800px;
     transition: 1s;
+    bottom: 5px;
+    position: relative;
     
 }
 .portofolio-cal img {
