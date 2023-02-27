@@ -365,6 +365,7 @@ h4 {
     height: 800px;
     margin: 20px;
     border-radius: 2px;
+    object-fit: cover;
     
   
     
